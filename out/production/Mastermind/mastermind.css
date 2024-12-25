@@ -1,0 +1,30 @@
+
+button {
+    font-size: 18px;
+    border-radius: 0px;
+    padding: 15px 20px;
+    cursor: pointer;
+    border: 2px solid #000;
+    background-color: white;
+    transition: none;
+}
+
+
+button.submit {
+    background-color: gray;
+    color: white;
+}
+
+
+button.colorChoice {
+    background-color: white;
+    border: 2px solid black;
+    width: 200px;
+    height: 80px;
+}
+
+
+button:hover {
+    background-color: white !important;
+    border: 2px solid #000 !important;
+}
