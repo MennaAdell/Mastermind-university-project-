@@ -1,4 +1,4 @@
-Mastermind Project
+#Mastermind-OOP-Project
 
 This project is an implementation of the famous Mastermind game, where the player has to guess a sequence of colors in the correct order. The game was developed using Java and the user interface was designed with CSS.
 
