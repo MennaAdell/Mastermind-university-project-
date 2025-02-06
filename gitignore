@@ -1,0 +1,11 @@
+# Ignore class files
+*.class
+
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+out/
+
+# Ignore logs and temporary files
+*.log
+tmp/
